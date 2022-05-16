@@ -1,0 +1,35 @@
+{{ define "title"}}
+  {{.Title}}
+{{ end }}
+
+{{ define "main" }}
+    <main aria-role="main">
+      <header class="homepage-header">
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <div class="homepage-content">
+        {{.Content}}
+      </div>
+      <div>
+        {{ range first 10 .Site.RegularPages }}
+            {{ .Render "summary"}}
+        {{ end }}
+      </div>
+      <hr/>
+      <div id="tilde_ring" style="background-color:slategray; text-align:center; border-radius:10px;">
+      <p><em>a member of the tilde.town ~ring</em></p>
+      <p> <a id="tilde_town_ring" class="tilde_ring_link" href="">random ~user</a>
+        | <a id="random_tildebox" class="tilde_ring_link" href="">random ~box</a>
+        | <a id="tilde_town_ring_next" class="tilde_ring_link" href="">next ~user</a> </p>
+      <p><a href="https://tilde.town/~um/tilde_ring/join.html">join</a></p>
+      <script type="text/javascript">
+        var ringjs = document.createElement('script')
+        ringjs.src = document.location.protocol + '//tilde.town/~um/tilde_ring/tilde_ring.js'
+        document.getElementById('tilde_ring').appendChild(ringjs)
+      </script>
+      </div>
+    </main>
+{{ end }}

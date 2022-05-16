@@ -1,0 +1,17 @@
+body {
+	background-color: DarkSlateGray;
+	color: Gainsboro;
+	font-family: courier;
+	max-width: 650px;
+	margin-left: 100px;
+}
+a {
+	color: LightGray;
+}
+
+#title {
+	display: inline;
+}
+span.subtitle {
+	font-style: italic;
+}
