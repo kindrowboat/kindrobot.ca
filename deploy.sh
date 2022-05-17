@@ -2,5 +2,5 @@
 
 set -eux
 
-hugo
+./build.sh
 rsync -r public/* kindrobot@tilde.town:public_html
