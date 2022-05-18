@@ -13,10 +13,17 @@
       <div class="homepage-content">
         {{.Content}}
       </div>
+      <hr/>
       <div>
-        {{ range first 10 .Site.RegularPages }}
-            {{ .Render "summary"}}
-        {{ end }}
+      <ul class="homepage-posts">
+      {{ range first 10 .Site.RegularPages }}
+        <li>
+            <div class="post">
+                <a href="{{ .Permalink }}">{{ .Title }}</a> <span class="date">{{ .Date.Format "02 Jan 2006" }}</span>
+            </div>
+        </li>
+      {{ end }}
+      </ul>
       </div>
       <hr/>
       <div id="tilde_ring" style="background-color:slategray; text-align:center; border-radius:10px;">

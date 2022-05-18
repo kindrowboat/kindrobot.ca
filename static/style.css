@@ -2,11 +2,19 @@ body {
 	background-color: DarkSlateGray;
 	color: Gainsboro;
 	font-family: courier;
-	max-width: 650px;
+	max-width: 700px;
 	margin-left: 100px;
 }
 a {
 	color: LightGray;
+}
+
+img {
+	max-width: 100%;
+}
+
+li {
+	margin-bottom: .5em;
 }
 
 #title {
@@ -14,4 +22,21 @@ a {
 }
 span.subtitle {
 	font-style: italic;
+}
+
+
+ul.homepage-posts {
+	padding-left: 1em;;
+}
+ul.homepage-posts .post {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 1em;
+}
+ul.homepage-posts .post a {
+	width: 75%;
+}
+ul.homepage-posts .post .date{
+	width: 20%;
+	text-align: right;
 }
