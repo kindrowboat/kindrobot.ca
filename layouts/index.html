@@ -15,9 +15,13 @@
       </div>
       <hr/>
       <div>
-      <ul>
+      <ul class="homepage-posts">
       {{ range first 10 .Site.RegularPages }}
-        {{ .Render "li" }}
+        <li>
+            <div class="post">
+                <a href="{{ .Permalink }}">{{ .Title }}</a> <span class="date">{{ .Date.Format "02 Jan 2006" }}</span>
+            </div>
+        </li>
       {{ end }}
       </ul>
       </div>

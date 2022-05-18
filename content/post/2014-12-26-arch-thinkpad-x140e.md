@@ -2,6 +2,7 @@
 
 layout:     post
 title:      "Arch on a Lenovo ThinkPad x140e"
+slug:       arch-thinkpad-x140e
 date:       2014-12-26 22:37:00
 categories: linux
 

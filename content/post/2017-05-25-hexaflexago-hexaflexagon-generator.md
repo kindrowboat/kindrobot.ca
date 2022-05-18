@@ -2,6 +2,7 @@
 
 layout:     post
 title:      "Hexaflexago: the friendly hexaflexagon template generator"
+slug:       hexaflexago
 date:       2017-05-25 12:05:00
 categories: projects
 

@@ -2,6 +2,7 @@
 
 layout:     post
 title:      "Idea for Part-time Agile Development Shop"
+slug:       "part-time-agile"
 date:       2015-02-25 10:34:00
 categories: life
 
