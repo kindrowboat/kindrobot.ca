@@ -1,7 +1,12 @@
 {{ define "main" }}
-<main id="main">
+<main aria-role="main">
   <div>
-  <h1 id="title">{{ .Title }}</h1>
+  <header class="homepage-header">
+    <h1>{{.Title}}</h1>
+    {{ with .Params.subtitle }}
+    <span class="subtitle">{{.}}</span>
+    {{ end }}
+  </header>
 
   {{.Content}}
   </div>
