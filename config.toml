@@ -1,6 +1,7 @@
 baseURL = 'https://kindrobot.ca/'
 languageCode = 'en-ca'
 title = 'kindrobot.ca'
+relativeURLs = true
 
 enableEmoji = true
 [markup]
