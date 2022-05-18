@@ -13,10 +13,13 @@
       <div class="homepage-content">
         {{.Content}}
       </div>
+      <hr/>
       <div>
-        {{ range first 10 .Site.RegularPages }}
-            {{ .Render "summary"}}
-        {{ end }}
+      <ul>
+      {{ range first 10 .Site.RegularPages }}
+        {{ .Render "li" }}
+      {{ end }}
+      </ul>
       </div>
       <hr/>
       <div id="tilde_ring" style="background-color:slategray; text-align:center; border-radius:10px;">
