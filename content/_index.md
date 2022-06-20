@@ -1,18 +1,19 @@
 ---
 title: kindrobot
-subtitle: Failing CAPTCHAs since 1988.
+subtitle: CAPTCHAs are discrimination.
 ---
 
-A [human](http://motevets.com).
+A [programmer](https://github.com/motevets).
 
-A [duck](http://🦆.to/).
-
-A [legitimate business](https://shadyjakes.biz).
+A [fédérateur](https://tiny.tilde.website/@kindrobot).
 
 -------
 
-A [place to belong](https://tilde.town).
+A [nostalgic time](https://spring83.kindrobot.ca).
 
-A [thing to flex](https://motevets.com/projects/2017/05/25/hexaflexago-hexaflexagon-generator.html).
+A [collection of art](https://piepi.art).
 
 A [source of light](https://chez.kindrobot.ca/puter.html).
+
+A [duck](http://🦆.to/).
+
