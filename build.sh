@@ -2,4 +2,4 @@
 
 set -e
 
-GOMAXPROCS=1 hugo --cacheDir /tmp/hugo_kindrobot
+GOMAXPROCS=1 hugo --cacheDir /$TMPDIR/hugo_kindrobot
