@@ -40,3 +40,9 @@ ul.homepage-posts .post .date{
 	width: 20%;
 	text-align: right;
 }
+
+blockquote {
+	margin-left: 1em;
+	padding-left: 1em;
+	border-left: solid grey 3px;
+}
