@@ -46,7 +46,7 @@ understanding**.
 
 ### if you're a coworker or manager
 
-I'm generally going to be less productive when I'm depressed. I may call of
+I'm generally going to be less productive when I'm depressed. I may call off
 work (sometimes explicitly for mental health, other times as a general "not
 feeling well.") I'll likely be less engaged in meetings and may have my camera
 off in video meetings. I may request to reschedule 1:1s. I'll be less likely to
@@ -81,7 +81,7 @@ to hear from you. You're welcome to resend your message. I won't take this as
 being pushy or clingy, but rather as an act of compassion to try to reach out
 while I'm not feeling well.
 
-I may missed scheduled appointments/dates/etc. I'll do my best to cancel as far
+I may miss scheduled appointments/dates/etc. I'll do my best to cancel as far
 in advance as possible, and I likely _do_ want to reschedule when I'm feeling
 better.
 
