@@ -145,9 +145,9 @@ I decided to ask it to write me some holiday cards, but with increasingly strang
 > Sincerely,
 > [Your Cat's Name]
 
-* Mustache Shakespeare
+# Mustache Shakespeare
 
-> Write a Christmas card in iambic pentameter about how cool it would be if we all had really cool mustaches. Give some examples of the activities we could participate in if we were all rockin' stashes.
+*Write a Christmas card in iambic pentameter about how cool it would be if we all had really cool mustaches. Give some examples of the activities we could participate in if we were all rockin' stashes.*
 
 > Dear Friend,
 > 
@@ -177,9 +177,9 @@ I decided to ask it to write me some holiday cards, but with increasingly strang
 > Sincerely,
 > [Your Name]
 
-* Mall Santa limerick
+# Mall Santa limerick
 
-> Write a limerick about life as a mall Santa
+*Write a limerick about life as a mall Santa*
 
 > There once was a Santa so jolly
 > Whose life was a constant folly
@@ -392,9 +392,9 @@ I decided to ask it to write me some holiday cards, but with increasingly strang
 > 
 > The End.
 
-> Keeping up with the Xandarians
+# Keeping up with the Xandarians
 
-> Write an advertisement for Christmas for a newly discovered sentient alien species.
+*Write an advertisement for Christmas for a newly discovered sentient alien species.*
 
 > Attention Earthlings! We are pleased to announce the discovery of a brand new sentient alien species, just in time for the holiday season!
 > 
