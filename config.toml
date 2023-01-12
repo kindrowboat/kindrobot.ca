@@ -8,3 +8,15 @@ enableEmoji = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[mediaTypes."text/ass"]
+  suffixes = ["ass"]
+
+[outputFormats]
+  [outputFormats.ActuallySimpleSyndication]
+    baseName = 'feed'
+    isPlainText = true
+    mediaType = 'text/ass'
+
+[outputs]
+  home = ['HTML', 'AMP', 'RSS', "ActuallySimpleSyndication"]
