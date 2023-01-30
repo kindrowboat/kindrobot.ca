@@ -107,7 +107,7 @@ Manage bluetooth through the CLI with `bluetoothctl`.
 Enable the fingerprint reader with
 
 [source](https://git.kindrobot.ca/kindrobot/nix-config/src/commit/6dcc57a85715665d188de03e3c74a926056c58ea/box/framework2.nix#L50)
-```
+```nix
 {
   services.fprintd.enable = true;
 }
