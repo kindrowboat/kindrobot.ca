@@ -142,13 +142,14 @@ at least a working) touchpad driver. When using AwesomeWM with no display
 manager, we're on our own. Specify using the synaptics driver with some
 reasonable configuration.
 
-[source](https://git.kindrobot.ca/kindrobot/nix-config/src/commit/6dcc57a85715665d188de03e3c74a926056c58ea/box/framework2.nix#L60-L64)
+[source](https://git.kindrobot.ca/kindrobot/nix-config/src/commit/465243fe219bfb22f1cdde743b4cd4a35f4c1c2e/box/framework2.nix#L60-L65)
 ```nix
 {
   services.xserver.synaptics = {
     enable = true;
     twoFingerScroll = true;
     accelFactor = "0.075";
+    fingersMap = [ 1 3 2 ];
   };
 }
 ```
@@ -191,11 +192,10 @@ echo awesome > ~/.xinitrc
 With all of the configuration up until now, after running `nixos-rebuild switch
 ...`, (and probably restarting), you should be able to get into Awesome by
 signing in at the login TTY and running `startx`. If you'd like a more custom
-desktop with most of the function keys working, try cloning my (forked) awesome
-config: 
+desktop with most of the function keys working, try cloning my awesome config: 
 
 ```bash
-git clone --recurse-submodules --remote-submodules --depth 1 -j 2 https://github.com/kindrowboat/awesome-copycats.git ~/.config/awesome`
+git clone --recurse-submodules --remote-submodules https://git.kindrobot.ca/kindrobot/awesome.git ~/.config/awesome`
 ```
 
 and reload nix by pressing Ctrl+Super+R.
