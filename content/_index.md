@@ -9,9 +9,13 @@ A [fédérateur](https://tiny.tilde.website/@kindrobot).
 
 -------
 
-A [collection of art](https://piepi.art).
+A [sandcastle of bytes](./share).
 
-A [game of ping pong](https://twitch.tv/kindrowboat).
+A [page full of words](./twtxt.txt).
+
+-------
+
+A [collection of art](https://piepi.art).
 
 A [duck](http://🦆.to/).
 
