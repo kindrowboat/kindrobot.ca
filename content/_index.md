@@ -9,14 +9,12 @@ A [fédérateur](https://tiny.tilde.website/@kindrobot).
 
 -------
 
-A [sandcastle of bytes](./share).
+A [sandcastle of bytes](./s).
 
-A [page full of words](./twtxt.txt).
+A [strange clock](./s/decimal_time.html).
 
 -------
 
 A [collection of art](https://piepi.art).
 
-A [duck](http://🦆.to/).
-
-A [page on the Internet](https://kindrobot.is.profoundly.gay/).
+A [duck](https://duck.motevets.com).
