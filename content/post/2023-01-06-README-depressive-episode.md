@@ -16,12 +16,12 @@ practices for interacting with me.
 
 ## About (my) depression
 
-I have been diagnosed with major depressive disorder (MAD) with a generalized
-anxiety disorder (GAD) component. I'm under the care of doctors and counsellors
-who are aware of the diagnosis and prescript appropriate medicines and
-therapies. Despite this, I still have regular depressive episodes. These
-episodes can have obvious triggers, but often they don't. They generally occur
-about once every three months and last one to four weeks.
+I have been diagnosed with bipolar I with a generalized anxiety disorder (GAD)
+component. I'm under the care of doctors and counsellors who are aware of the
+diagnosis and prescript appropriate medicines and therapies. Despite this, I
+still have regular depressive episodes. These episodes can have obvious
+triggers, but often they don't. They generally occur about once every three
+months and last one to four weeks.
 
 During an episode, I experience:
 
