@@ -1,10 +1,7 @@
 ---
 
-layout:     post
-title:      "Android SFTP Clients Review"
-slug:       "android-sftp-clients-review"
-date:       2024-06-13 12:43:49
-categories: []
+layout:     post title:      "Android SFTP Clients Review" slug:
+"android-sftp-clients-review" date:       2024-06-13 12:43:49 categories: []
 
 ---
 
@@ -36,4 +33,10 @@ My top pick is Owlfiles
   - (-) closed source
   - (~) first and foremost an SSH client
   - (-) wants you to sign up for a subscription
-  - (-) has some odd restrictions about uploading files from the Downloads folder
+  - (-) has some odd restrictions about uploading files from the Downloads
+    folder
+
+## Discussion
+
+If you have any thoughts or comments, drop a reply in [this mastodon
+thread](https://tiny.tilde.website/@kindrobot/112610373065305607).
