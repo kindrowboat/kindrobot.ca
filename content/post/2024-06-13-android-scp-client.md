@@ -1,7 +1,10 @@
 ---
 
-layout:     post title:      "Android SFTP Clients Review" slug:
-"android-sftp-clients-review" date:       2024-06-13 12:43:49 categories: []
+layout:     post
+title:      "Android SFTP Clients Review"
+slug:       "android-sftp-clients-review"
+date:       2024-06-13 12:43:49
+categories: []
 
 ---
 
