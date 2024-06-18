@@ -13,10 +13,10 @@ I've done a quick survey of SFTP clients for Android. Here are my findings.
 ## Recommendation
 
 My top pick is Owlfiles
-- (+)supports a lot of protocols alongside SFTP (e.g. WebDav and S3)
+- (+) supports a lot of protocols alongside SFTP (e.g. WebDav and S3)
 - (+) shows previews of remote files
 - (+) supports private keys
-- (+) is ascetically pleasing
+- (+) is aesthetically pleasing
 - (~) It's free(mium), but not very pushy to upgrade
 - (-) closed source
 
