@@ -2,6 +2,6 @@
 
 set -e
 
-tmpdir=$(mktemp -d)
+TEMPDIR=$(mktemp -d)
 
-GOMAXPROCS=1 hugo --cacheDir "$tmpdir"
+GOMAXPROCS=1 hugo --cacheDir /$TEMPDIR/hugo_kindrobot

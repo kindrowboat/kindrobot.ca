@@ -46,3 +46,7 @@ blockquote {
 	padding-left: 1em;
 	border-left: solid grey 3px;
 }
+
+pre {
+	overflow-x: auto;
+}

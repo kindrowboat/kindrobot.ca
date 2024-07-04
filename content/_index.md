@@ -1,6 +1,6 @@
 ---
 title: kindrobot
-subtitle: CAPTCHAs are discrimination.
+subtitle: Failing CAPTCHAs since 1988.
 ---
 
 A [being](https://resume.kindrobot.ca/resume.html).
@@ -9,11 +9,12 @@ A [fédérateur](https://tiny.tilde.website/@kindrobot).
 
 -------
 
-A [nostalgic time](https://spring83.kindrobot.ca).
+A [sandcastle of bytes](./s).
+
+A [strange clock](./s/decimal_time.html).
+
+-------
 
 A [collection of art](https://piepi.art).
 
-A [source of light](https://chez.kindrobot.ca/puter.html).
-
-A [duck](http://🦆.to/).
-
+A [duck](https://duck.motevets.com).
