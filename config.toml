@@ -1,7 +1,7 @@
 baseURL = 'https://tilde.town/~kindrobot/'
 languageCode = 'en-ca'
 title = 'kindrobot'
-relativeURLs = true
+relativeURLs = false
 
 enableEmoji = true
 [markup]

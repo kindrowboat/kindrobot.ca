@@ -16,7 +16,7 @@
       <hr/>
       <div>
       <ul class="homepage-posts">
-      {{ range first 10 .Site.RegularPages }}
+      {{ range .Site.RegularPages }}
         <li>
             <div class="post">
                 <a href="{{ .Permalink }}">{{ .Title }}</a> <span class="date">{{ .Date.Format "02 Jan 2006" }}</span>
