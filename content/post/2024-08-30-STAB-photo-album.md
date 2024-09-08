@@ -18,5 +18,7 @@ Digital photography album of an estrogen injection.
 | date: | 2024-08-30 00:55:33 EDT |
 | camera: | Samsung Galaxy Fold 5 |
 
+[Discuss (mastodon)](https://tiny.tilde.website/@kindrobot/113099187985246820)
+
 {{< gallery dir="albums/stab" />}}
 {{< load-photoswipe >}}
