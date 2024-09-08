@@ -2,6 +2,7 @@ baseURL = 'https://tilde.town/~kindrobot/'
 languageCode = 'en-ca'
 title = 'kindrobot'
 relativeURLs = false
+theme = ["hugo-easy-gallery"]
 
 enableEmoji = true
 [markup]
@@ -20,3 +21,6 @@ enableEmoji = true
 
 [outputs]
   home = ['HTML', 'AMP', 'RSS', "ActuallySimpleSyndication"]
+
+[security]
+  enableInlineShortcodes = true
