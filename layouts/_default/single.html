@@ -1,11 +1,16 @@
 {{ define "main" }}
 <main aria-role="main">
   <div>
+  <nav>
+    <ol class="breadcrumb">
+      <li><a href="{{ .Site.BaseURL }}">kindrobot</a></li>
+      <li><a href="{{ .Site.BaseURL }}{{ .Section }}">{{ .Section }}</a></li>
+      <li>{{ .Slug }}</li>
+    </ol>
+  </nav>
   <header class="homepage-header">
     <h1>{{.Title}}</h1>
-    {{ with .Params.subtitle }}
-    <span class="subtitle">{{.}}</span>
-    {{ end }}
+    <span class="subtitle">{{.Params.subtitle}}</span>
   </header>
 
   {{.Content}}
