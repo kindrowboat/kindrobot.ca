@@ -12,7 +12,7 @@ I was originally turned on to [hexaflexagons] while watching a [video by
 vihart]. I’ve since become a tad obsessed.  My partner, [Jane Meredith], and I
 created [Hexaflexago], a hexaflexagon template generator.
 
-[![Hexaflexago screenshot](/images/hexaflexago.png)](http://hexaflexago.motevets.com/)
+[![Hexaflexago screenshot](images/hexaflexago.png)](http://hexaflexago.motevets.com/)
 
 # Features
 - Generates a printable trihexaflexagon template
@@ -36,7 +36,7 @@ There are some improvements I’d like to make to Hexaflexago eventually.
 I’m also currently working with [Littoral Press] to make hexaflexagon business
 cards.  Here’s a prototype:
 
-![Hexaflexagon business cards](/images/hexaflexagon_business_cards.jpg)
+![Hexaflexagon business cards](images/hexaflexagon_business_cards.jpg)
 
 [Jane Meredith]: https://jane.biz/
 [hexaflexagons]: http://vihart.com/hexaflexagons/
