@@ -1,8 +1,9 @@
 ---
 
 layout:     post
-title:      "README: depressive episode"
-slug:       "readme-depressive-episode"
+title:      "DEPRESSION.md"
+slug:       "depression.md"
+aliases:    ["readme-depressive-episode", "depression-md"]
 date:       2023-01-06 10:15:09
 categories: [personal]
 
