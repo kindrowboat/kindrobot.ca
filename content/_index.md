@@ -9,6 +9,8 @@ A [professional](https://resume.kindrobot.ca/resume.html).
 
 A [fédérateur](https://tiny.tilde.website/@kindrobot).
 
+A [word smith](https://words.kindrobot.ca/read)
+
 -------
 
 A [sandcastle of bytes](./s).
