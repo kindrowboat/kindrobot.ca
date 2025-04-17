@@ -1,17 +1,24 @@
+@import url('https://fonts.cdnfonts.com/css/fantasque-sans-mono');
+
 body {
-	background-color: DarkSlateGray;
-	color: Gainsboro;
-	font-family: courier;
+	background-color: black;
+	color: plum;
+	font-family: 'Fantasque Sans Mono', sans-serif;
+	font-size: 20px
 }
 
-main {
+main, footer, header {
 	max-width: 700px;
 	margin-left: 5vw;
 	margin-right: 5vw;
 }
 
+p {
+	line-height: 1.25;
+}
+
 a {
-	color: LightGray;
+	color: pink;
 }
 
 img {
@@ -49,7 +56,7 @@ ul.homepage-posts .post .date{
 blockquote {
 	margin-left: 1em;
 	padding-left: 1em;
-	border-left: solid grey 3px;
+	border-left: solid  3px;
 }
 
 pre {
@@ -69,7 +76,7 @@ dt {
 ol.breadcrumb {
 	padding: 10px 16px;
 	list-style: none;
-	background-color: SlateGray;
+	background-color: indigo;
 }
 
 /* Display list items side by side */
@@ -95,4 +102,8 @@ ol.breadcrumb li a {
 ol.breadcrumb li a:hover {
 	color: #01447e;
 	text-decoration: underline;
+}
+
+footer span {
+	display: inline-block;
 }

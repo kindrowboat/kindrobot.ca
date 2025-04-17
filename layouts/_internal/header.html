@@ -1,0 +1,13 @@
+<header>
+  <nav>
+    <ol class="breadcrumb">
+      <li><a href="{{ .Site.BaseURL }}">kindrobot</a></li>
+      {{ if .Section }}
+        <li><a href="{{ .Site.BaseURL }}{{ .Section }}">{{ .Section }}</a></li>
+      {{ end }}
+      {{ if .Slug }}
+        <li>{{ .Slug }}</li>
+      {{ end }}
+    </ol>
+  </nav>
+</header>

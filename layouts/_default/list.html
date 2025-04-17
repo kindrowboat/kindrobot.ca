@@ -1,9 +1,9 @@
 {{ define "main" }}
-<main id="main">
+<main>
   <div>
   <h1 id="title">{{ .Title }}</h1>
   {{ range .Pages }}
-    {{ .Render "summary"}}
+    {{ template "_internal/summary.html" . }}
   {{ end }}
   </div>
 </main>

@@ -11,12 +11,14 @@
     {{ end -}}
   </head>
   <body>
-    <!-- Code that all your templates share, like a header -->
+    {{ block "header" . }}
+      {{ template "_internal/header.html" . }}
+    {{ end }}
     {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->
     {{ end }}
     {{ block "footer" . }}
-    <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+      {{ template "_internal/footer.html" . }}
     {{ end }}
   </body>
 </html>

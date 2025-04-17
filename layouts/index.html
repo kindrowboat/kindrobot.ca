@@ -4,17 +4,15 @@
 
 {{ define "main" }}
     <main aria-role="main">
-      <header class="homepage-header">
-        <h1>{{.Title}}</h1>
-        {{ with .Params.subtitle }}
+      {{ with .Params.subtitle }}
         <span class="subtitle">{{.}}</span>
-        {{ end }}
-      </header>
+      {{ end }}
       <div class="homepage-content">
         {{.Content}}
       </div>
       <hr/>
       <div>
+      <h2>we wrote</h2>
       <ul class="homepage-posts">
       {{ range .Site.RegularPages }}
         <li>
@@ -26,7 +24,7 @@
       </ul>
       </div>
       <hr/>
-      <div id="tilde_ring" style="background-color:slategray; text-align:center; border-radius:10px;">
+      <div id="tilde_ring" style="background-color:purple; text-align:center; border-radius:10px;">
       <p><em>a member of the tilde.town ~ring</em></p>
       <p> <a id="tilde_town_ring" class="tilde_ring_link" href="">random ~user</a>
         | <a id="random_tildebox" class="tilde_ring_link" href="">random ~box</a>
