@@ -1,4 +1,4 @@
-_certified Canadian(🍁) since 2025_
+_certified Canadian(🍁) girl(⚧️) since 2025_
 
 ## we are
 
